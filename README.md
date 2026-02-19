@@ -51,7 +51,7 @@ Creates `dist/` folder ready for deployment.
    - Save
 
 5. **Dashboard will be live at:**
-   `https://YOUR_USERNAME.github.io/dashboard/`
+   `https://kenpopaul.github.io/dashboard-app/`
 
 ## 🔄 Update After Changes
 
